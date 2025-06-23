@@ -85,7 +85,7 @@ class Config:
     CHECKOUT_VIP_1ANO = "https://checkout.exemplo.com/vip-1ano"
     MAX_REQUESTS_PER_SESSION = 30
     REQUEST_TIMEOUT = 30
-    AUDIO_FILE = "https://github.com/gustapb77/ChatBotHot/raw/refs/heads/main/assets/audio/paloma_audio.mp3"
+    AUDIO_FILE = "https://github.com/Palomabarreto274/Plataforma/raw/refs/heads/main/assets/entao%20meu%20amor,deixa%20eu%20fazer%20vc%20gozar.m4a"
     AUDIO_DURATION = 7
     IMG_PROFILE = "https://i.ibb.co/ks5CNrDn/IMG-9256.jpg"
     IMG_GALLERY = [
